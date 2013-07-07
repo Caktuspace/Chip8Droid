@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chip8Droid/Chip8Droid.iml" filepath="$PROJECT_DIR$/Chip8Droid/Chip8Droid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chip8DroidProject.iml" filepath="$PROJECT_DIR$/Chip8DroidProject.iml" />
+    </modules>
+  </component>
+</project>
+
