@@ -189,7 +189,7 @@ class Chip8GLSurfaceView extends GLSurfaceView {
 		gameLoopHandle.cancel(true);
 	}
 
-	 @Override 
+	 @Override
 	    public boolean onTouchEvent(MotionEvent ev) {
 		 super.onTouchEvent(ev);
 	        // MotionEvent reports input details from the touch screen

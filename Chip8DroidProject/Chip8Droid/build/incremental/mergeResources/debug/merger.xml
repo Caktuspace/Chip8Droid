@@ -29,6 +29,11 @@
                 qualifiers=""
                 type="layout" />
             <file
+                name="file_row"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\file_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\menu\main.xml"
                 qualifiers=""
@@ -104,11 +109,6 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
-            <file
-                name="file_row"
-                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\file_row.xml"
-                qualifiers=""
-                type="layout" />
         </source>
         <source path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\build\res\rs\debug" />
     </dataSet>

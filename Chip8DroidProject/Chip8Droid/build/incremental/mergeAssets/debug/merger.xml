@@ -2,7 +2,518 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets" />
+        <source path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets" >
+            <file
+                name="chip8file/Games/Slide [Joyce Weisbecker].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Slide [Joyce Weisbecker].txt" />
+            <file
+                name="chip8file/Games/Landing.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Landing.ch8" />
+            <file
+                name="chip8file/Hires/!hires_information.txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\!hires_information.txt" />
+            <file
+                name="chip8file/Hires/Hires Worm V4 [RB-Revival Studios, 2007].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Worm V4 [RB-Revival Studios, 2007].txt" />
+            <file
+                name="chip8file/Games/Brix [Andreas Gustafsson, 1990].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Brix [Andreas Gustafsson, 1990].ch8" />
+            <file
+                name="chip8file/Programs/Jumping X and O [Harry Kleinberg, 1977].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Jumping X and O [Harry Kleinberg, 1977].txt" />
+            <file
+                name="chip8file/Games/Pong 2 (Pong hack) [David Winter, 1997].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Pong 2 (Pong hack) [David Winter, 1997].ch8" />
+            <file
+                name="chip8file/Games/UFO [Lutz V, 1992].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\UFO [Lutz V, 1992].txt" />
+            <file
+                name="chip8file/Games/Biorhythm [Jef Winsor].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Biorhythm [Jef Winsor].txt" />
+            <file
+                name="chip8file/Programs/Chip8 Picture.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Chip8 Picture.ch8" />
+            <file
+                name="chip8file/Games/15 Puzzle [Roger Ivie] (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\15 Puzzle [Roger Ivie] (alt).ch8" />
+            <file
+                name="chip8file/Programs/Chip8 emulator Logo [Garstyciuks].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Chip8 emulator Logo [Garstyciuks].ch8" />
+            <file
+                name="chip8file/Demos/Particle Demo [zeroZshadow, 2008].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Particle Demo [zeroZshadow, 2008].ch8" />
+            <file
+                name="chip8file/Games/Figures.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Figures.ch8" />
+            <file
+                name="chip8file/Games/Space Invaders [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Invaders [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Spooky Spot [Joseph Weisbecker, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Spooky Spot [Joseph Weisbecker, 1978].txt" />
+            <file
+                name="chip8file/Games/Tron.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tron.ch8" />
+            <file
+                name="chip8file/Games/Connect 4 [David Winter].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Connect 4 [David Winter].txt" />
+            <file
+                name="chip8file/Games/Astro Dodge [Revival Studios, 2008].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Astro Dodge [Revival Studios, 2008].txt" />
+            <file
+                name="chip8file/Demos/Stars [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Stars [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Hires/Hires Stars [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Stars [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Games/Cave.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Cave.ch8" />
+            <file
+                name="chip8file/Games/ZeroPong [zeroZshadow, 2007].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\ZeroPong [zeroZshadow, 2007].ch8" />
+            <file
+                name="chip8file/Hires/Trip8 Hires Demo (2008) [Revival Studios].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Trip8 Hires Demo (2008) [Revival Studios].txt" />
+            <file
+                name="chip8file/Games/Missile [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Missile [David Winter].ch8" />
+            <file
+                name="chip8file/Programs/Clock Program [Bill Fisher, 1981].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Clock Program [Bill Fisher, 1981].ch8" />
+            <file
+                name="chip8file/Games/Bowling [Gooitzen van der Wal].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Bowling [Gooitzen van der Wal].txt" />
+            <file
+                name="chip8file/Games/Timebomb.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Timebomb.ch8" />
+            <file
+                name="chip8file/Programs/SQRT Test [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\SQRT Test [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Games/Breakout [Carmelo Cortez, 1979].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Breakout [Carmelo Cortez, 1979].ch8" />
+            <file
+                name="chip8file/Games/Pong [Paul Vervalin, 1990].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Pong [Paul Vervalin, 1990].ch8" />
+            <file
+                name="chip8file/Demos/Maze [David Winter, 199x].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Maze [David Winter, 199x].ch8" />
+            <file
+                name="chip8file/Hires/Hires Particle Demo [zeroZshadow, 2008].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Particle Demo [zeroZshadow, 2008].txt" />
+            <file
+                name="chip8file/Games/Mastermind FourRow (Robert Lindley, 1978).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Mastermind FourRow (Robert Lindley, 1978).ch8" />
+            <file
+                name="chip8file/Games/Blitz [David Winter].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Blitz [David Winter].txt" />
+            <file
+                name="chip8file/Games/Syzygy [Roy Trevino, 1990].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Syzygy [Roy Trevino, 1990].ch8" />
+            <file
+                name="chip8file/Games/Shooting Stars [Philip Baltzer, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Shooting Stars [Philip Baltzer, 1978].txt" />
+            <file
+                name="chip8file/Games/Sequence Shoot [Joyce Weisbecker].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Sequence Shoot [Joyce Weisbecker].txt" />
+            <file
+                name="chip8file/Games/15 Puzzle [Roger Ivie].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\15 Puzzle [Roger Ivie].txt" />
+            <file
+                name="chip8file/Games/Deflection [John Fort].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Deflection [John Fort].ch8" />
+            <file
+                name="chip8file/Games/Most Dangerous Game [Peter Maruhnic].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Most Dangerous Game [Peter Maruhnic].ch8" />
+            <file
+                name="chip8file/Games/Merlin [David Winter].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Merlin [David Winter].txt" />
+            <file
+                name="chip8file/Games/Bowling [Gooitzen van der Wal].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Bowling [Gooitzen van der Wal].ch8" />
+            <file
+                name="chip8file/Games/Programmable Spacefighters [Jef Winsor].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Programmable Spacefighters [Jef Winsor].txt" />
+            <file
+                name="chip8file/Games/Filter.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Filter.ch8" />
+            <file
+                name="chip8file/Games/Soccer.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Soccer.ch8" />
+            <file
+                name="chip8file/Programs/Life [GV Samways, 1980].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Life [GV Samways, 1980].txt" />
+            <file
+                name="chip8file/Games/X-Mirror.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\X-Mirror.ch8" />
+            <file
+                name="chip8file/Demos/Zero Demo [zeroZshadow, 2007].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Zero Demo [zeroZshadow, 2007].ch8" />
+            <file
+                name="chip8file/Games/Puzzle.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Puzzle.ch8" />
+            <file
+                name="chip8file/Games/Airplane.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Airplane.ch8" />
+            <file
+                name="chip8file/Games/Rush Hour [Hap, 2006] (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rush Hour [Hap, 2006] (alt).ch8" />
+            <file
+                name="chip8file/Programs/BMP Viewer - Hello (C8 example) [Hap, 2005].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\BMP Viewer - Hello (C8 example) [Hap, 2005].txt" />
+            <file
+                name="chip8file/Games/Guess [David Winter] (alt).txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Guess [David Winter] (alt).txt" />
+            <file
+                name="chip8file/Demos/Maze (alt) [David Winter, 199x].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Maze (alt) [David Winter, 199x].ch8" />
+            <file
+                name="chip8file/Hires/Hires Test [Tom Swan, 1979].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Test [Tom Swan, 1979].ch8" />
+            <file
+                name="chip8file/Games/Hidden [David Winter, 1996].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Hidden [David Winter, 1996].txt" />
+            <file
+                name="chip8file/Games/Space Invaders [David Winter] (alt).txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Invaders [David Winter] (alt).txt" />
+            <file
+                name="chip8file/Games/Coin Flipping [Carmelo Cortez, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Coin Flipping [Carmelo Cortez, 1978].ch8" />
+            <file
+                name="chip8file/Games/Space Intercept [Joseph Weisbecker, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Intercept [Joseph Weisbecker, 1978].txt" />
+            <file
+                name="chip8file/Games/Squash [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Squash [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Rocket Launch [Jonas Lindstedt].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rocket Launch [Jonas Lindstedt].ch8" />
+            <file
+                name="chip8file/Games/Guess [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Guess [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Lunar Lander (Udo Pernisz, 1979).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Lunar Lander (Udo Pernisz, 1979).ch8" />
+            <file
+                name="chip8file/Hires/Hires Maze [David Winter, 199x].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Maze [David Winter, 199x].ch8" />
+            <file
+                name="chip8file/Games/Craps [Camerlo Cortez, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Craps [Camerlo Cortez, 1978].txt" />
+            <file
+                name="chip8file/Games/Rush Hour [Hap, 2006].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rush Hour [Hap, 2006].ch8" />
+            <file
+                name="chip8file/Games/Pong (1 player).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Pong (1 player).ch8" />
+            <file
+                name="chip8file/Games/Kaleidoscope [Joseph Weisbecker, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Kaleidoscope [Joseph Weisbecker, 1978].txt" />
+            <file
+                name="chip8file/Games/Space Intercept [Joseph Weisbecker, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Intercept [Joseph Weisbecker, 1978].ch8" />
+            <file
+                name="chip8file/Games/Reversi [Philip Baltzer].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Reversi [Philip Baltzer].txt" />
+            <file
+                name="chip8file/Games/Lunar Lander [Udo Pernisz, 1979].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Lunar Lander [Udo Pernisz, 1979].txt" />
+            <file
+                name="chip8file/Games/Worm V4 [RB-Revival Studios, 2007].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Worm V4 [RB-Revival Studios, 2007].txt" />
+            <file
+                name="chip8file/Programs/Keypad Test [Hap, 2006].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Keypad Test [Hap, 2006].ch8" />
+            <file
+                name="chip8file/Hires/Astro Dodge Hires [Revival Studios, 2008].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Astro Dodge Hires [Revival Studios, 2008].ch8" />
+            <file
+                name="chip8file/Games/Russian Roulette [Carmelo Cortez, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Russian Roulette [Carmelo Cortez, 1978].ch8" />
+            <file
+                name="chip8file/Programs/Delay Timer Test [Matthew Mikolay, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Delay Timer Test [Matthew Mikolay, 2010].ch8" />
+            <file
+                name="chip8file/Games/Blinky [Hans Christian Egeberg] (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Blinky [Hans Christian Egeberg] (alt).ch8" />
+            <file
+                name="chip8file/Programs/Fishie [Hap, 2005].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Fishie [Hap, 2005].ch8" />
+            <file
+                name="chip8file/Games/Breakout (Brix hack) [David Winter, 1997].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Breakout (Brix hack) [David Winter, 1997].ch8" />
+            <file
+                name="chip8file/Programs/IBM Logo.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\IBM Logo.ch8" />
+            <file
+                name="chip8file/Games/Sum Fun [Joyce Weisbecker].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Sum Fun [Joyce Weisbecker].ch8" />
+            <file
+                name="chip8file/Games/Nim [Carmelo Cortez, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Nim [Carmelo Cortez, 1978].txt" />
+            <file
+                name="chip8file/Games/15 Puzzle [Roger Ivie].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\15 Puzzle [Roger Ivie].ch8" />
+            <file
+                name="chip8file/Demos/Maze [David Winter, 199x].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Maze [David Winter, 199x].txt" />
+            <file
+                name="chip8file/Games/Rush Hour [Hap, 2006].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rush Hour [Hap, 2006].txt" />
+            <file
+                name="chip8file/Games/Reversi [Philip Baltzer].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Reversi [Philip Baltzer].ch8" />
+            <file
+                name="chip8file/Programs/Clock Program [Bill Fisher, 1981].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Clock Program [Bill Fisher, 1981].txt" />
+            <file
+                name="chip8file/Games/Wipe Off [Joseph Weisbecker].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Wipe Off [Joseph Weisbecker].ch8" />
+            <file
+                name="chip8file/Games/Blinky [Hans Christian Egeberg, 1991].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Blinky [Hans Christian Egeberg, 1991].ch8" />
+            <file
+                name="chip8file/Games/Tetris [Fran Dachille, 1991].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tetris [Fran Dachille, 1991].ch8" />
+            <file
+                name="chip8file/Games/Rocket Launcher.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rocket Launcher.ch8" />
+            <file
+                name="chip8file/Games/Breakout [Carmelo Cortez, 1979].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Breakout [Carmelo Cortez, 1979].txt" />
+            <file
+                name="chip8file/Games/Sequence Shoot [Joyce Weisbecker].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Sequence Shoot [Joyce Weisbecker].ch8" />
+            <file
+                name="chip8file/Games/Nim [Carmelo Cortez, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Nim [Carmelo Cortez, 1978].ch8" />
+            <file
+                name="chip8file/Games/Vers [JMN, 1991].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Vers [JMN, 1991].ch8" />
+            <file
+                name="chip8file/Hires/Hires Sierpinski [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Sierpinski [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Games/Deflection [John Fort].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Deflection [John Fort].txt" />
+            <file
+                name="chip8file/Hires/Hires Worm V4 [RB-Revival Studios, 2007].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Worm V4 [RB-Revival Studios, 2007].ch8" />
+            <file
+                name="chip8file/Programs/Fishie [Hap, 2005].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Fishie [Hap, 2005].txt" />
+            <file
+                name="chip8file/Games/Pong (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Pong (alt).ch8" />
+            <file
+                name="chip8file/Demos/Sirpinski [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Sirpinski [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Games/Astro Dodge [Revival Studios, 2008].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Astro Dodge [Revival Studios, 2008].ch8" />
+            <file
+                name="chip8file/Programs/Random Number Test [Matthew Mikolay, 2010].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Random Number Test [Matthew Mikolay, 2010].txt" />
+            <file
+                name="chip8file/Games/Tank.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tank.ch8" />
+            <file
+                name="chip8file/Games/Slide [Joyce Weisbecker].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Slide [Joyce Weisbecker].ch8" />
+            <file
+                name="chip8file/Hires/Hires Particle Demo [zeroZshadow, 2008].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Particle Demo [zeroZshadow, 2008].ch8" />
+            <file
+                name="chip8file/Programs/Framed MK2 [GV Samways, 1980].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Framed MK2 [GV Samways, 1980].txt" />
+            <file
+                name="chip8file/Games/Addition Problems [Paul C. Moews].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Addition Problems [Paul C. Moews].ch8" />
+            <file
+                name="chip8file/Games/Biorhythm [Jef Winsor].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Biorhythm [Jef Winsor].ch8" />
+            <file
+                name="chip8file/Hires/Hires Maze [David Winter, 199x].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Hires Maze [David Winter, 199x].txt" />
+            <file
+                name="chip8file/Games/Space Invaders [David Winter].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Invaders [David Winter].txt" />
+            <file
+                name="chip8file/Games/Connect 4 [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Connect 4 [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Submarine [Carmelo Cortez, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Submarine [Carmelo Cortez, 1978].ch8" />
+            <file
+                name="chip8file/Programs/Division Test [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Division Test [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Games/Brick (Brix hack, 1990).txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Brick (Brix hack, 1990).txt" />
+            <file
+                name="chip8file/Games/Hi-Lo [Jef Winsor, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Hi-Lo [Jef Winsor, 1978].ch8" />
+            <file
+                name="chip8file/Games/Guess [David Winter].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Guess [David Winter].txt" />
+            <file
+                name="chip8file/Games/Rocket [Joseph Weisbecker, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Rocket [Joseph Weisbecker, 1978].ch8" />
+            <file
+                name="chip8file/Games/Tank.txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tank.txt" />
+            <file
+                name="chip8file/Demos/Sierpinski [Sergey Naydenov, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Sierpinski [Sergey Naydenov, 2010].ch8" />
+            <file
+                name="chip8file/Programs/Random Number Test [Matthew Mikolay, 2010].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Random Number Test [Matthew Mikolay, 2010].ch8" />
+            <file
+                name="chip8file/Games/Pong [Paul Vervalin, 1990].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Pong [Paul Vervalin, 1990].txt" />
+            <file
+                name="chip8file/Games/Craps [Camerlo Cortez, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Craps [Camerlo Cortez, 1978].ch8" />
+            <file
+                name="chip8file/Games/Tapeworm [JDR, 1999].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tapeworm [JDR, 1999].ch8" />
+            <file
+                name="chip8file/Games/Worm V4 [RB-Revival Studios, 2007].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Worm V4 [RB-Revival Studios, 2007].ch8" />
+            <file
+                name="chip8file/Hires/Trip8 Hires Demo (2008) [Revival Studios].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Trip8 Hires Demo (2008) [Revival Studios].ch8" />
+            <file
+                name="chip8file/Games/Guess [David Winter] (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Guess [David Winter] (alt).ch8" />
+            <file
+                name="chip8file/Demos/Maze (alt) [David Winter, 199x].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Maze (alt) [David Winter, 199x].txt" />
+            <file
+                name="chip8file/Games/Submarine [Carmelo Cortez, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Submarine [Carmelo Cortez, 1978].txt" />
+            <file
+                name="chip8file/Games/Brick (Brix hack, 1990).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Brick (Brix hack, 1990).ch8" />
+            <file
+                name="chip8file/Games/Vertical Brix [Paul Robson, 1996].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Vertical Brix [Paul Robson, 1996].ch8" />
+            <file
+                name="chip8file/Games/Paddles.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Paddles.ch8" />
+            <file
+                name="chip8file/Programs/Framed MK2 [GV Samways, 1980].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Framed MK2 [GV Samways, 1980].ch8" />
+            <file
+                name="chip8file/Programs/Minimal game [Revival Studios, 2007].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Minimal game [Revival Studios, 2007].ch8" />
+            <file
+                name="chip8file/Programs/Framed MK1 [GV Samways, 1980].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Framed MK1 [GV Samways, 1980].ch8" />
+            <file
+                name="chip8file/Programs/Keypad Test [Hap, 2006].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Keypad Test [Hap, 2006].txt" />
+            <file
+                name="chip8file/Games/Programmable Spacefighters [Jef Winsor].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Programmable Spacefighters [Jef Winsor].ch8" />
+            <file
+                name="chip8file/Games/Merlin [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Merlin [David Winter].ch8" />
+            <file
+                name="chip8file/Programs/Delay Timer Test [Matthew Mikolay, 2010].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Delay Timer Test [Matthew Mikolay, 2010].txt" />
+            <file
+                name="chip8file/Programs/Jumping X and O [Harry Kleinberg, 1977].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Jumping X and O [Harry Kleinberg, 1977].ch8" />
+            <file
+                name="chip8file/Games/Shooting Stars [Philip Baltzer, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Shooting Stars [Philip Baltzer, 1978].ch8" />
+            <file
+                name="chip8file/Games/Blitz [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Blitz [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Breakout (Brix hack) [David Winter, 1997].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Breakout (Brix hack) [David Winter, 1997].txt" />
+            <file
+                name="chip8file/Programs/Framed MK1 [GV Samways, 1980].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Framed MK1 [GV Samways, 1980].txt" />
+            <file
+                name="chip8file/Games/Mastermind FourRow (Robert Lindley, 1978).txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Mastermind FourRow (Robert Lindley, 1978).txt" />
+            <file
+                name="chip8file/Hires/Astro Dodge Hires [Revival Studios, 2008].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Hires\Astro Dodge Hires [Revival Studios, 2008].txt" />
+            <file
+                name="chip8file/Demos/Trip8 Demo (2008) [Revival Studios].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Trip8 Demo (2008) [Revival Studios].txt" />
+            <file
+                name="chip8file/Programs/Life [GV Samways, 1980].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\Life [GV Samways, 1980].ch8" />
+            <file
+                name="chip8file/Games/Syzygy [Roy Trevino, 1990].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Syzygy [Roy Trevino, 1990].txt" />
+            <file
+                name="chip8file/Games/Animal Race [Brian Astle].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Animal Race [Brian Astle].ch8" />
+            <file
+                name="chip8file/Games/Tic-Tac-Toe [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tic-Tac-Toe [David Winter].ch8" />
+            <file
+                name="chip8file/Games/Wall [David Winter].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Wall [David Winter].ch8" />
+            <file
+                name="chip8file/Demos/Zero Demo [zeroZshadow, 2007].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Zero Demo [zeroZshadow, 2007].txt" />
+            <file
+                name="chip8file/Games/Sum Fun [Joyce Weisbecker].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Sum Fun [Joyce Weisbecker].txt" />
+            <file
+                name="chip8file/Demos/Trip8 Demo (2008) [Revival Studios].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Trip8 Demo (2008) [Revival Studios].ch8" />
+            <file
+                name="chip8file/Games/Russian Roulette [Carmelo Cortez, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Russian Roulette [Carmelo Cortez, 1978].txt" />
+            <file
+                name="chip8file/Games/Space Invaders [David Winter] (alt).ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Invaders [David Winter] (alt).ch8" />
+            <file
+                name="chip8file/Games/Spooky Spot [Joseph Weisbecker, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Spooky Spot [Joseph Weisbecker, 1978].ch8" />
+            <file
+                name="chip8file/Games/Most Dangerous Game [Peter Maruhnic].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Most Dangerous Game [Peter Maruhnic].txt" />
+            <file
+                name="chip8file/Games/Kaleidoscope [Joseph Weisbecker, 1978].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Kaleidoscope [Joseph Weisbecker, 1978].ch8" />
+            <file
+                name="chip8file/Programs/BMP Viewer - Hello (C8 example) [Hap, 2005].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Programs\BMP Viewer - Hello (C8 example) [Hap, 2005].ch8" />
+            <file
+                name="chip8file/Games/Tetris [Fran Dachille, 1991].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Tetris [Fran Dachille, 1991].txt" />
+            <file
+                name="chip8file/Games/Hidden [David Winter, 1996].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Hidden [David Winter, 1996].ch8" />
+            <file
+                name="chip8file/Games/Coin Flipping [Carmelo Cortez, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Coin Flipping [Carmelo Cortez, 1978].txt" />
+            <file
+                name="chip8file/Games/Hi-Lo [Jef Winsor, 1978].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Hi-Lo [Jef Winsor, 1978].txt" />
+            <file
+                name="chip8file/Demos/Particle Demo [zeroZshadow, 2008].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Demos\Particle Demo [zeroZshadow, 2008].txt" />
+            <file
+                name="chip8file/Games/Animal Race [Brian Astle].txt"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Animal Race [Brian Astle].txt" />
+            <file
+                name="chip8file/Games/UFO [Lutz V, 1992].ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\UFO [Lutz V, 1992].ch8" />
+            <file
+                name="chip8file/Games/Space Flight.ch8"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\assets\chip8file\Games\Space Flight.ch8" />
+        </source>
     </dataSet>
     <dataSet config="debug" >
         <source path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\debug\assets" />

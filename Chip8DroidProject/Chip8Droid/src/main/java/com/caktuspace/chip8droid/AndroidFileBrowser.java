@@ -16,10 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
  
 public class AndroidFileBrowser extends ListActivity {
-       
-        private enum DISPLAYMODE{ ABSOLUTE, RELATIVE}
- 
-        private final DISPLAYMODE displayMode = DISPLAYMODE.ABSOLUTE;
+
         private List<String> directoryEntries = new ArrayList<String>();
         private File currentDirectory = new File("/");
  
@@ -37,8 +34,8 @@ public class AndroidFileBrowser extends ListActivity {
          * root-directory of the file-system.
          */
         private void browseToRoot() {
-                browseTo(Environment.getRootDirectory());
-    }
+                browseTo(Environment.getExternalStorageDirectory());
+        }
        
         /**
          * This function browses up one level
@@ -81,32 +78,23 @@ public class AndroidFileBrowser extends ListActivity {
         private void fill(File[] files) {
                 this.directoryEntries.clear();
                
-                // Add the "." and the ".." == 'Up one level'
+                // Add the ".." == 'Up one level'
                 try {
                         Thread.sleep(10);
                 } catch (InterruptedException e1) {
                         // TODO Auto-generated catch block
                         e1.printStackTrace();
                 }
-                this.directoryEntries.add(".");
-               
+
                 if(this.currentDirectory.getParent() != null)
-                        this.directoryEntries.add("..");
-               
-                switch(this.displayMode){
-                        case ABSOLUTE:
-                                for (File file : files){
-                                        this.directoryEntries.add(file.getPath());
-                                }
-                                break;
-                        case RELATIVE: // On relative Mode, we have to add the current-path to the beginning
-                                int currentPathStringLenght = this.currentDirectory.getAbsolutePath().length();
-                                for (File file : files){
-                                        this.directoryEntries.add(file.getAbsolutePath().substring(currentPathStringLenght));
-                                }
-                                break;
+                    this.directoryEntries.add("..");
+
+                if (files != null) {
+                    for (File file : files){
+                        this.directoryEntries.add(file.getPath());
+                    }
                 }
-               
+
                 ArrayAdapter<String> directoryList = new ArrayAdapter<String>(this,
                                 R.layout.file_row, this.directoryEntries);
                
@@ -125,15 +113,7 @@ public class AndroidFileBrowser extends ListActivity {
                         this.upOneLevel();
                 } else {
                         File clickedFile = null;
-                        switch(this.displayMode){
-                                case RELATIVE:
-                                        clickedFile = new File(this.currentDirectory.getAbsolutePath()
-                                                                                                + this.directoryEntries.get(position));
-                                        break;
-                                case ABSOLUTE:
-                                        clickedFile = new File(this.directoryEntries.get(position));
-                                        break;
-                        }
+                        clickedFile = new File(this.directoryEntries.get(position));
                         if(clickedFile != null) {
                             this.browseTo(clickedFile);
                         }
