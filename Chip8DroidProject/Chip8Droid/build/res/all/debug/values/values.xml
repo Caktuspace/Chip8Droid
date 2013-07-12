@@ -7,6 +7,14 @@
     <string name="action_settings">Settings</string>
     <string name="app_name">Chip8Droid</string>
     <string name="hello_world">Hello world!</string>
+    <string name="play">Play</string>
+    <string name="search">Find a game on the device</string>
+    <string name="title">CHIP 8 EMULATOR</string>
+    <string name="title_activity_game_list">gameList</string>
+    <string name="title_activity_test">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
 
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

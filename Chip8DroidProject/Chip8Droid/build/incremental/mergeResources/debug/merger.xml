@@ -49,11 +49,27 @@
             <file
                 path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\values\strings.xml"
                 qualifiers="" >
+                <string name="title_section1" >Section 1
+                </string>
+                <string name="search" >Find a game on the device
+                </string>
+                <string name="title_activity_game_list" >gameList
+                </string>
+                <string name="title_section3" >Section 3
+                </string>
                 <string name="action_settings" >Settings
+                </string>
+                <string name="title_section2" >Section 2
+                </string>
+                <string name="title" >CHIP 8 EMULATOR
                 </string>
                 <string name="app_name" >Chip8Droid
                 </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_test" >MainActivity
+                </string>
+                <string name="play" >Play
                 </string>
             </file>
             <file
@@ -109,6 +125,36 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="liste_game"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\liste_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_game_list_dummy"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\fragment_game_list_dummy.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="game_list"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\menu\game_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="list_game"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\list_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_game_list"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\layout\fragment_game_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="test"
+                path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\src\main\res\menu\test.xml"
+                qualifiers=""
+                type="menu" />
         </source>
         <source path="C:\Users\Quentin\Documents\GitHub\Chip8Droid\Chip8DroidProject\Chip8Droid\build\res\rs\debug" />
     </dataSet>
